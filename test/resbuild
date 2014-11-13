@@ -1,6 +1,6 @@
 ((mesh
   ((id teapot)
-   (file "utah-teapot.dae")
-   (geometry_id "Teapot-mesh")
+   (source "utah-teapot.dae")
+   (source_id "Teapot-mesh")
   )
  ))
