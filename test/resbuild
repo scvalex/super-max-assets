@@ -1,0 +1,6 @@
+((mesh
+  ((id teapot)
+   (file "utah-teapot.dae")
+   (geometry_id "Teapot-mesh")
+  )
+ ))
