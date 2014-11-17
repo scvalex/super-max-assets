@@ -2,5 +2,10 @@
   ((id teapot)
    (source "utah-teapot.dae")
    (source_id "Teapot-mesh")
-  )
- ))
+   ))
+ (program
+  ((id debug_simple)
+   (vertex "debug_simple.vert")
+   (fragment "debug_simple.frag")
+   ))
+ )
