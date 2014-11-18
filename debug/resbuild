@@ -4,8 +4,8 @@
    (source_id "Teapot-mesh")
    ))
  (program
-  ((id debug_simple)
-   (vertex "debug_simple.vert")
-   (fragment "debug_simple.frag")
+  ((id simple)
+   (vertex "simple.vert")
+   (fragment "simple.frag")
    ))
  )
