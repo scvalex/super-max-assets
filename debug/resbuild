@@ -8,4 +8,8 @@
    (vertex "simple.vert")
    (fragment "simple.frag")
    ))
+ (mesh
+  ((id half-cube)
+   (source "half-cube.dae")
+   (source_id "Cube-mesh")))
  )
