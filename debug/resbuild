@@ -1,7 +1,7 @@
 ((mesh
   ((id teapot)
    (source "utah-teapot.dae")
-   (source_id "Teapot-mesh")
+   (source_id "Teapot")
    ))
  (program
   ((id simple)
@@ -11,5 +11,5 @@
  (mesh
   ((id half-cube)
    (source "half-cube.dae")
-   (source_id "Cube-mesh")))
+   (source_id "Cube")))
  )
